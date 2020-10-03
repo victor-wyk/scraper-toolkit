@@ -3,7 +3,7 @@
 ### Overview
 Program to scrape large volumes of product information from Amazon. Also comes with a proxy scraper so you could hide your real address to prevent getting recaptcha-ed by Amazon.
 
-Because it is dependent on Amazon's page formatting which might change anytime, it's not guaranteed to make you a big data master overnight. You will also have to configure the database schemas yourself.
+Because it is dependent on Amazon's page formatting which might change anytime, it's not guaranteed to work right out of the box. You will also have to configure the database schemas yourself.
 
 ### How does it work?
 #### Step 1: Department Scraper
