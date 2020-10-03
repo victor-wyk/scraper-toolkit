@@ -36,7 +36,7 @@ Each page of the catalog contains a list of products, and the program goes throu
 A profile of the product is created and loaded into the database. Rinse and repeat for another product, for eternity.
 
 ### Extras
-#### Proxy Scraper
+#### Proxy Scraper, Proxy Rotation
 Amazon does not like you harvesting their data. If they catch you doing that, they make it harder for you by making you do a recaptcha, which is an effective way to ward off bots. Thankfully this can be mitigated by using proxies, well, a lot of proxy addresses, which is gathered from free sites such as Spys.net. We simply gather the IP proxy addresses into our database and rotate these in our Amazon scraper. These IP proxy addresses are also periodically speed tested and only responsive ones are used.
 
 You should keep in mind that if a product is free, that means you are the product itself. Taking advantage of free proxy services comes with a price- that your IP address will be used for malicious purposes. More important if your machine is using a static IP, or domain and DDNS. Recommended to chain a paid VPN in front first so the free services don't know your actual IP address, or just simply pay for a scraping VPN service.
