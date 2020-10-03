@@ -1,0 +1,707 @@
+{
+    "Departments": {
+        "children": [
+            {
+                "Amazon International Shopping": {
+                    "data": {
+                        "url": "https://www.amazon.com/b/ref=AE_HP_leftnav_help?_encoding=UTF8&ie=UTF8&node=20338496011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-leftnav&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_t=101&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_i=17938598011"
+                    }
+                }
+            },
+            {
+                "Arts & Crafts": {
+                    "data": {
+                        "url": "https://www.amazon.com/b/ref=AE_HP_leftnav_arts_crafts?_encoding=UTF8&ie=UTF8&node=4954955011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-leftnav&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_t=101&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_i=17938598011"
+                    }
+                }
+            },
+            {
+                "Automotive": {
+                    "data": {
+                        "url": "https://www.amazon.com/b/ref=AE_HP_leftnav_automotive?_encoding=UTF8&ie=UTF8&node=2562090011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-leftnav&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_t=101&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_i=17938598011"
+                    }
+                }
+            },
+            {
+                "Baby": {
+                    "data": {
+                        "url": "https://www.amazon.com/b/ref=AE_HP_leftnav_baby?_encoding=UTF8&ie=UTF8&node=16225005011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-leftnav&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_t=101&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_i=17938598011"
+                    }
+                }
+            },
+            {
+                "Beauty & Personal Care": {
+                    "data": {
+                        "url": "https://www.amazon.com/b/ref=AE_HP_leftnav_beauty?_encoding=UTF8&ie=UTF8&node=16225006011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-leftnav&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_t=101&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_i=17938598011"
+                    }
+                }
+            },
+            {
+                "Books": {
+                    "data": {
+                        "url": "https://www.amazon.com/s/ref=AE_HP_leftnav_books?ie=UTF8&bbn=283155&rh=i%3Astripbooks%2Cn%3A283155%2Cp_n_availability%3A2245265011%2Cp_n_shipping_option-bin%3A3242350011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-leftnav&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_t=101&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_i=17938598011"
+                    }
+                }
+            },
+            {
+                "Boys' Fashion": {
+                    "data": {
+                        "url": "https://www.amazon.com/b/ref=AE_HP_leftnav_boysfashion?_encoding=UTF8&ie=UTF8&node=16225021011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-leftnav&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_t=101&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_i=17938598011"
+                    }
+                }
+            },
+            {
+                "Computers": {
+                    "data": {
+                        "url": "https://www.amazon.com/b/ref=AE_HP_leftnav_computers?_encoding=UTF8&ie=UTF8&node=16225007011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-leftnav&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_t=101&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_i=17938598011"
+                    }
+                }
+            },
+            {
+                "Deals": {
+                    "data": {
+                        "url": "https://www.amazon.com/b/ref=AE_HP_leftnav_sales?_encoding=UTF8&ie=UTF8&node=15529609011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-leftnav&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_t=101&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_i=17938598011"
+                    }
+                }
+            },
+            {
+                "Electronics": {
+                    "data": {
+                        "url": "https://www.amazon.com/b/ref=AE_HP_leftnav_electronics?_encoding=UTF8&ie=UTF8&node=16225009011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-leftnav&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_t=101&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_i=17938598011"
+                    }
+                }
+            },
+            {
+                "Girls' Fashion": {
+                    "children": [
+                        {
+                            "Accessories": {
+                                "children": [
+                                    {
+                                        "Belts": {
+                                            "data": {
+                                                "url": "https://www.amazon.com/s?i=fashion-girls-intl-ship&bbn=16225020011&rh=n%3A16225020011%2Cn%3A2474938011%2Cn%3A2478145011&dc&pf_rd_i=16225020011&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_s=merchandised-search-left-2&pf_rd_t=101&qid=1593702383&rnid=2474938011&ref=sr_nr_n_3"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Cold Weather": {
+                                            "data": {
+                                                "url": "https://www.amazon.com/s?i=fashion-girls-intl-ship&bbn=16225020011&rh=n%3A16225020011%2Cn%3A2474938011%2Cn%3A2474957011&dc&pf_rd_i=16225020011&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_s=merchandised-search-left-2&pf_rd_t=101&qid=1593702383&rnid=2474938011&ref=sr_nr_n_1"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Fashion Scarves": {
+                                            "data": {
+                                                "url": "https://www.amazon.com/s?i=fashion-girls-intl-ship&bbn=16225020011&rh=n%3A16225020011%2Cn%3A2474938011%2Cn%3A3006263011&dc&pf_rd_i=16225020011&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_s=merchandised-search-left-2&pf_rd_t=101&qid=1593702383&rnid=2474938011&ref=sr_nr_n_5"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "First Communion Veils": {
+                                            "data": {
+                                                "url": "https://www.amazon.com/s?i=fashion-girls-intl-ship&bbn=16225020011&rh=n%3A16225020011%2Cn%3A2474938011%2Cn%3A5867818011&dc&pf_rd_i=16225020011&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_s=merchandised-search-left-2&pf_rd_t=101&qid=1593702383&rnid=2474938011&ref=sr_nr_n_7"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Hats & Caps": {
+                                            "data": {
+                                                "url": "https://www.amazon.com/s?i=fashion-girls-intl-ship&bbn=16225020011&rh=n%3A16225020011%2Cn%3A2474938011%2Cn%3A2474958011&dc&pf_rd_i=16225020011&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_s=merchandised-search-left-2&pf_rd_t=101&qid=1593702383&rnid=2474938011&ref=sr_nr_n_2"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Special Occasion Gloves": {
+                                            "data": {
+                                                "url": "https://www.amazon.com/s?i=fashion-girls-intl-ship&bbn=16225020011&rh=n%3A16225020011%2Cn%3A2474938011%2Cn%3A5867817011&dc&pf_rd_i=16225020011&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_s=merchandised-search-left-2&pf_rd_t=101&qid=1593702383&rnid=2474938011&ref=sr_nr_n_6"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Sunglasses": {
+                                            "data": {
+                                                "url": "https://www.amazon.com/s?i=fashion-girls-intl-ship&bbn=16225020011&rh=n%3A16225020011%2Cn%3A2474938011%2Cn%3A2474959011&dc&pf_rd_i=16225020011&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_s=merchandised-search-left-2&pf_rd_t=101&qid=1593702383&rnid=2474938011&ref=sr_nr_n_4"
+                                            }
+                                        }
+                                    }
+                                ],
+                                "data": {
+                                    "url": "https://www.amazon.com/s/ref=AE_Girls_Accessories?bbn=16225020011&ie=UTF8&rh=i%3Aspecialty-aps%2Cn%3A7141123011%2Cn%3A16225020011%2Cn%3A2474938011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-2&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_t=101&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_i=16225020011"
+                                }
+                            }
+                        },
+                        {
+                            "Clothing": {
+                                "data": {
+                                    "url": "https://www.amazon.com/s/ref=AE_Girls_Clothing?bbn=16225020011&ie=UTF8&rh=i%3Aspecialty-aps%2Cn%3A7141123011%2Cn%3A16225020011%2Cn%3A1040664&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-2&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_t=101&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_i=16225020011"
+                                }
+                            }
+                        },
+                        {
+                            "Jewelry": {
+                                "data": {
+                                    "url": "https://www.amazon.com/s/ref=AE_Girls_Jewelry?bbn=16225020011&ie=UTF8&rh=i%3Aspecialty-aps%2Cn%3A7141123011%2Cn%3A16225020011%2Cn%3A3880961&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-2&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_t=101&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_i=16225020011"
+                                }
+                            }
+                        },
+                        {
+                            "School Uniforms": {
+                                "data": {
+                                    "url": "https://www.amazon.com/s/ref=AE_Girls_Uniforms?bbn=7581687011&ie=UTF8&rh=i%3Afashion-girls%2Cn%3A7141123011%2Cn%3A7147442011%2Cn%3A7581687011%2Cp_n_shipping_option-bin%3A3242350011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-2&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_t=101&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_i=16225020011"
+                                }
+                            }
+                        },
+                        {
+                            "Shoes": {
+                                "data": {
+                                    "url": "https://www.amazon.com/s/ref=AE_Girls_Shoes?bbn=16225020011&ie=UTF8&rh=i%3Aspecialty-aps%2Cn%3A7141123011%2Cn%3A16225020011%2Cn%3A679217011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-2&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_t=101&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_i=16225020011"
+                                }
+                            }
+                        },
+                        {
+                            "Watches": {
+                                "children": [
+                                    {
+                                        "Pocket Watches": {
+                                            "data": {
+                                                "url": "https://www.amazon.com/s?i=fashion-girls-intl-ship&bbn=16225020011&rh=n%3A16225020011%2Cn%3A6358547011%2Cn%3A6358550011&dc&pf_rd_i=16225020011&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_s=merchandised-search-left-2&pf_rd_t=101&qid=1593702383&rnid=6358547011&ref=sr_nr_n_3"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Watch Bands": {
+                                            "data": {
+                                                "url": "https://www.amazon.com/s?i=fashion-girls-intl-ship&bbn=16225020011&rh=n%3A16225020011%2Cn%3A6358547011%2Cn%3A6358549011&dc&pf_rd_i=16225020011&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_s=merchandised-search-left-2&pf_rd_t=101&qid=1593702383&rnid=6358547011&ref=sr_nr_n_2"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Wrist Watches": {
+                                            "data": {
+                                                "url": "https://www.amazon.com/s?i=fashion-girls-intl-ship&bbn=16225020011&rh=n%3A16225020011%2Cn%3A6358547011%2Cn%3A6358548011&dc&pf_rd_i=16225020011&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_s=merchandised-search-left-2&pf_rd_t=101&qid=1593702383&rnid=6358547011&ref=sr_nr_n_1"
+                                            }
+                                        }
+                                    }
+                                ],
+                                "data": {
+                                    "url": "https://www.amazon.com/s/ref=AE_Girls_Watches?bbn=16225020011&ie=UTF8&rh=i%3Aspecialty-aps%2Cn%3A7141123011%2Cn%3A16225020011%2Cn%3A6358547011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-2&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_r=Q63NMMP0G71DBRH029AD&pf_rd_t=101&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_p=590edd7e-7bd2-4b3d-b0e0-acc975fc0961&pf_rd_i=16225020011"
+                                }
+                            }
+                        }
+                    ],
+                    "data": {
+                        "url": "https://www.amazon.com/b/ref=AE_HP_leftnav_girlsfashion?_encoding=UTF8&ie=UTF8&node=16225020011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-leftnav&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_t=101&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_i=17938598011"
+                    }
+                }
+            },
+            {
+                "Health & Household": {
+                    "data": {
+                        "url": "https://www.amazon.com/b/ref=AE_HP_leftnav_health_household?_encoding=UTF8&ie=UTF8&node=16225010011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-leftnav&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_t=101&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_i=17938598011"
+                    }
+                }
+            },
+            {
+                "Home & Kitchen": {
+                    "data": {
+                        "url": "https://www.amazon.com/b/ref=AE_HP_leftnav_home_kitchen?_encoding=UTF8&ie=UTF8&node=16225011011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-leftnav&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_t=101&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_i=17938598011"
+                    }
+                }
+            },
+            {
+                "Industrial & Scientific": {
+                    "data": {
+                        "url": "https://www.amazon.com/b/ref=AE_HP_leftnav_industrial?_encoding=UTF8&ie=UTF8&node=16225012011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-leftnav&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_t=101&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_i=17938598011"
+                    }
+                }
+            },
+            {
+                "Luggage": {
+                    "children": [
+                        {
+                            "Backpacks": {
+                                "data": {
+                                    "url": "https://www.amazon.com/s/ref=AE_Luggage_leftnav?bbn=16225017011&ie=UTF8&rh=n%3A7141123011%2Cn%3A16225017011%2Cn%3A360832011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-2&pf_rd_r=J48FXBZ2CBTJCSP2DXFM&pf_rd_r=J48FXBZ2CBTJCSP2DXFM&pf_rd_t=101&pf_rd_p=92f6b9f6-45a8-4a56-916b-6d695966ee4a&pf_rd_p=92f6b9f6-45a8-4a56-916b-6d695966ee4a&pf_rd_i=16225017011"
+                                }
+                            }
+                        },
+                        {
+                            "Carry Ons": {
+                                "data": {
+                                    "url": "https://www.amazon.com/s/ref=AE_Luggage_leftnav?bbn=16225017011&ie=UTF8&rh=n%3A7141123011%2Cn%3A16225017011%2Cn%3A15743251%2Cn%3A15743261&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-2&pf_rd_r=J48FXBZ2CBTJCSP2DXFM&pf_rd_r=J48FXBZ2CBTJCSP2DXFM&pf_rd_t=101&pf_rd_p=92f6b9f6-45a8-4a56-916b-6d695966ee4a&pf_rd_p=92f6b9f6-45a8-4a56-916b-6d695966ee4a&pf_rd_i=16225017011"
+                                }
+                            }
+                        },
+                        {
+                            "Duffles": {
+                                "data": {
+                                    "url": "https://www.amazon.com/s/ref=AE_Luggage_leftnav?bbn=16225017011&ie=UTF8&rh=n%3A7141123011%2Cn%3A16225017011%2Cn%3A15743211&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-2&pf_rd_r=J48FXBZ2CBTJCSP2DXFM&pf_rd_r=J48FXBZ2CBTJCSP2DXFM&pf_rd_t=101&pf_rd_p=92f6b9f6-45a8-4a56-916b-6d695966ee4a&pf_rd_p=92f6b9f6-45a8-4a56-916b-6d695966ee4a&pf_rd_i=16225017011"
+                                }
+                            }
+                        },
+                        {
+                            "Garment Bags": {
+                                "data": {
+                                    "url": "https://www.amazon.com/s/ref=AE_Luggage_leftnav?bbn=16225017011&ie=UTF8&rh=n%3A7141123011%2Cn%3A16225017011%2Cn%3A15743251%2Cn%3A15743271&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-2&pf_rd_r=J48FXBZ2CBTJCSP2DXFM&pf_rd_r=J48FXBZ2CBTJCSP2DXFM&pf_rd_t=101&pf_rd_p=92f6b9f6-45a8-4a56-916b-6d695966ee4a&pf_rd_p=92f6b9f6-45a8-4a56-916b-6d695966ee4a&pf_rd_i=16225017011"
+                                }
+                            }
+                        },
+                        {
+                            "Kids Luggage": {
+                                "data": {
+                                    "url": "https://www.amazon.com/s/ref=AE_Luggage_leftnavn?bbn=16225017011&ie=UTF8&rh=n%3A7141123011%2Cn%3A16225017011%2Cn%3A15743251%2Cn%3A2477386011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-2&pf_rd_r=J48FXBZ2CBTJCSP2DXFM&pf_rd_r=J48FXBZ2CBTJCSP2DXFM&pf_rd_t=101&pf_rd_p=92f6b9f6-45a8-4a56-916b-6d695966ee4a&pf_rd_p=92f6b9f6-45a8-4a56-916b-6d695966ee4a&pf_rd_i=16225017011"
+                                }
+                            }
+                        },
+                        {
+                            "Laptop Bags": {
+                                "children": [
+                                    {
+                                        "Backpacks": {
+                                            "data": {
+                                                "url": "https://www.amazon.com/s?i=luggage-intl-ship&bbn=16225017011&rh=n%3A16225017011%2Cn%3A9971584011%2Cn%3A335604011&dc&pf_rd_i=16225017011&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=92f6b9f6-45a8-4a56-916b-6d695966ee4a&pf_rd_p=92f6b9f6-45a8-4a56-916b-6d695966ee4a&pf_rd_r=J48FXBZ2CBTJCSP2DXFM&pf_rd_r=J48FXBZ2CBTJCSP2DXFM&pf_rd_s=merchandised-search-left-2&pf_rd_t=101&qid=1593702381&rnid=9971584011&ref=sr_nr_n_1"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Briefcases": {
+                                            "data": {
+                                                "url": "https://www.amazon.com/s?i=luggage-intl-ship&bbn=16225017011&rh=n%3A16225017011%2Cn%3A9971584011%2Cn%3A3012918011&dc&pf_rd_i=16225017011&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=92f6b9f6-45a8-4a56-916b-6d695966ee4a&pf_rd_p=92f6b9f6-45a8-4a56-916b-6d695966ee4a&pf_rd_r=J48FXBZ2CBTJCSP2DXFM&pf_rd_r=J48FXBZ2CBTJCSP2DXFM&pf_rd_s=merchandised-search-left-2&pf_rd_t=101&qid=1593702381&rnid=9971584011&ref=sr_nr_n_2"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Messenger & Shoulder Bags": {
+                                            "data": {
+                                                "url": "https://www.amazon.com/s?i=luggage-intl-ship&bbn=16225017011&rh=n%3A16225017011%2Cn%3A9971584011%2Cn%3A3012921011&dc&pf_rd_i=16225017011&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=92f6b9f6-45a8-4a56-916b-6d695966ee4a&pf_rd_p=92f6b9f6-45a8-4a56-916b-6d695966ee4a&pf_rd_r=J48FXBZ2CBTJCSP2DXFM&pf_rd_r=J48FXBZ2CBTJCSP2DXFM&pf_rd_s=merchandised-search-left-2&pf_rd_t=101&qid=1593702381&rnid=9971584011&ref=sr_nr_n_3"
+                                            }
+                                        }
+                                    }
+                                ],
+                                "data": {
+                                    "url": "https://www.amazon.com/s/ref=AE_Luggage_leftnav?bbn=16225017011&ie=UTF8&rh=n%3A7141123011%2Cn%3A16225017011%2Cn%3A9971584011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-2&pf_rd_r=J48FXBZ2CBTJCSP2DXFM&pf_rd_r=J48FXBZ2CBTJCSP2DXFM&pf_rd_t=101&pf_rd_p=92f6b9f6-45a8-4a56-916b-6d695966ee4a&pf_rd_p=92f6b9f6-45a8-4a56-916b-6d695966ee4a&pf_rd_i=16225017011"
+                                }
+                            }
+                        },
+                        {
+                            "Luggage Sets": {
+                                "data": {
+                                    "url": "https://www.amazon.com/s/ref=AE_Luggage_leftnav?bbn=16225017011&ie=UTF8&rh=n%3A7141123011%2Cn%3A16225017011%2Cn%3A15743251%2Cn%3A15743291&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-2&pf_rd_r=J48FXBZ2CBTJCSP2DXFM&pf_rd_r=J48FXBZ2CBTJCSP2DXFM&pf_rd_t=101&pf_rd_p=92f6b9f6-45a8-4a56-916b-6d695966ee4a&pf_rd_p=92f6b9f6-45a8-4a56-916b-6d695966ee4a&pf_rd_i=16225017011"
+                                }
+                            }
+                        },
+                        {
+                            "Messenger Bags": {
+                                "data": {
+                                    "url": "https://www.amazon.com/s/ref=AE_Luggage_leftnav?bbn=16225017011&ie=UTF8&rh=n%3A7141123011%2Cn%3A16225017011%2Cn%3A15743231&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-2&pf_rd_r=J48FXBZ2CBTJCSP2DXFM&pf_rd_r=J48FXBZ2CBTJCSP2DXFM&pf_rd_t=101&pf_rd_p=92f6b9f6-45a8-4a56-916b-6d695966ee4a&pf_rd_p=92f6b9f6-45a8-4a56-916b-6d695966ee4a&pf_rd_i=16225017011"
+                                }
+                            }
+                        },
+                        {
+                            "Suitcases": {
+                                "data": {
+                                    "url": "https://www.amazon.com/s/ref=AE_Luggage_leftnav?bbn=16225017011&ie=UTF8&rh=n%3A7141123011%2Cn%3A16225017011%2Cn%3A15743251%2Cn%3A2477388011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-2&pf_rd_r=J48FXBZ2CBTJCSP2DXFM&pf_rd_r=J48FXBZ2CBTJCSP2DXFM&pf_rd_t=101&pf_rd_p=92f6b9f6-45a8-4a56-916b-6d695966ee4a&pf_rd_p=92f6b9f6-45a8-4a56-916b-6d695966ee4a&pf_rd_i=16225017011"
+                                }
+                            }
+                        },
+                        {
+                            "Travel Accessories": {
+                                "data": {
+                                    "url": "https://www.amazon.com/s/ref=AE_Luggage_leftnav?bbn=16225017011&ie=UTF8&rh=n%3A7141123011%2Cn%3A16225017011%2Cn%3A15743971&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-2&pf_rd_r=J48FXBZ2CBTJCSP2DXFM&pf_rd_r=J48FXBZ2CBTJCSP2DXFM&pf_rd_t=101&pf_rd_p=92f6b9f6-45a8-4a56-916b-6d695966ee4a&pf_rd_p=92f6b9f6-45a8-4a56-916b-6d695966ee4a&pf_rd_i=16225017011"
+                                }
+                            }
+                        },
+                        {
+                            "Travel Totes": {
+                                "data": {
+                                    "url": "https://www.amazon.com/s/ref=AE_Luggage_leftnav?bbn=16225017011&ie=UTF8&rh=n%3A7141123011%2Cn%3A16225017011%2Cn%3A15743241&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-2&pf_rd_r=J48FXBZ2CBTJCSP2DXFM&pf_rd_r=J48FXBZ2CBTJCSP2DXFM&pf_rd_t=101&pf_rd_p=92f6b9f6-45a8-4a56-916b-6d695966ee4a&pf_rd_p=92f6b9f6-45a8-4a56-916b-6d695966ee4a&pf_rd_i=16225017011"
+                                }
+                            }
+                        },
+                        {
+                            "Umbrellas": {
+                                "data": {
+                                    "url": "https://www.amazon.com/s/ref=AE_Luggage_leftnav?bbn=16225017011&ie=UTF8&rh=n%3A7141123011%2Cn%3A16225017011%2Cn%3A15744111&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-2&pf_rd_r=J48FXBZ2CBTJCSP2DXFM&pf_rd_r=J48FXBZ2CBTJCSP2DXFM&pf_rd_t=101&pf_rd_p=92f6b9f6-45a8-4a56-916b-6d695966ee4a&pf_rd_p=92f6b9f6-45a8-4a56-916b-6d695966ee4a&pf_rd_i=16225017011"
+                                }
+                            }
+                        }
+                    ],
+                    "data": {
+                        "url": "https://www.amazon.com/b/ref=AE_HP_leftnav_luggage?_encoding=UTF8&ie=UTF8&node=16225017011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-leftnav&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_t=101&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_i=17938598011"
+                    }
+                }
+            },
+            {
+                "Men's Fashion": {
+                    "data": {
+                        "url": "https://www.amazon.com/b/ref=AE_HP_leftnav_mensfashion?_encoding=UTF8&ie=UTF8&node=16225019011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-leftnav&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_t=101&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_i=17938598011"
+                    }
+                }
+            },
+            {
+                "Movies & Television": {
+                    "children": [
+                        {
+                            "4K Store": {
+                                "data": {
+                                    "url": "https://www.amazon.com/4K-Store/b/ref=amb_link_1?ie=UTF8&node=11598814011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-4&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=697a6891-be2a-4032-ac14-62b6c920611f&pf_rd_p=697a6891-be2a-4032-ac14-62b6c920611f&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Action & Adventure": {
+                                "data": {
+                                    "url": "https://www.amazon.com/action-adventure-dvd-bluray/b/ref=MoviesHPBB_Genres_Action?ie=UTF8&node=2650363011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Amazon Fire TV Cube": {
+                                "data": {
+                                    "url": "https://www.amazon.com/gp/product/B07KGVB6D6/ref=dvd_bb_kindlefire?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Amazon Fire TV Stick": {
+                                "data": {
+                                    "url": "https://www.amazon.com/gp/product/B0791TX5P5/ref=dvd_bb_amazonfiretv?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Amazon Fire TV Stick 4K": {
+                                "data": {
+                                    "url": "https://www.amazon.com/gp/product/B079QHML21/ref=dvd_bb_amazonfiretvstick?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Animation": {
+                                "data": {
+                                    "url": "https://www.amazon.com/animation-dvd-bluray/b/ref=MoviesHPBB_Genres_Animation?ie=UTF8&node=712256&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Anime": {
+                                "data": {
+                                    "url": "https://www.amazon.com/anime-dvd-bluray/b/ref=MoviesHPBB_Genres_Anime?ie=UTF8&node=2650364011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "BBC": {
+                                "data": {
+                                    "url": "https://www.amazon.com/b/ref=amb_link_2?ie=UTF8&node=15701066011&ref=MoviesHPBB_BBC&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-4&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=697a6891-be2a-4032-ac14-62b6c920611f&pf_rd_p=697a6891-be2a-4032-ac14-62b6c920611f&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Best Sellers": {
+                                "data": {
+                                    "url": "https://www.amazon.com/bestsellers/movies-tv/ref=amb_link_8?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Blu-ray": {
+                                "data": {
+                                    "url": "https://www.amazon.com/movies-tv-bluray-bluray3d/b/ref=MoviesHPBB_Bluray?ie=UTF8&node=2901953011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Classics": {
+                                "data": {
+                                    "url": "https://www.amazon.com/classics-dvd-bluray/b/ref=MoviesHPBB_Genres_Classics?ie=UTF8&node=163345&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Comedy": {
+                                "data": {
+                                    "url": "https://www.amazon.com/comedy-dvd-bluray/b/ref=MoviesHPBB_Genres_Comedy?ie=UTF8&node=2650366011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Criterion Collection": {
+                                "data": {
+                                    "url": "https://www.amazon.com/stores/page/60E6089F-CFDA-40A8-96F8-95314F9FB999%26ref%3DMoviesHPBB_Criterion/ref=amb_link_3?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-4&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=697a6891-be2a-4032-ac14-62b6c920611f&pf_rd_p=697a6891-be2a-4032-ac14-62b6c920611f&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Digital Copy Information": {
+                                "data": {
+                                    "url": "https://www.amazon.com/Digital-Copy-DVD/b/ref=amb_link_11?ie=UTF8&node=721726011&ref=MoviesHPBB_Digcopy&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-4&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=697a6891-be2a-4032-ac14-62b6c920611f&pf_rd_p=697a6891-be2a-4032-ac14-62b6c920611f&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Disney": {
+                                "data": {
+                                    "url": "https://www.amazon.com/b/ref=amb_link_4?ie=UTF8&node=15897257011&ref=MoviesHPBB_Disney&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-4&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=697a6891-be2a-4032-ac14-62b6c920611f&pf_rd_p=697a6891-be2a-4032-ac14-62b6c920611f&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Documentary": {
+                                "data": {
+                                    "url": "https://www.amazon.com/documentaries-dvd-bluray/b/ref=MoviesHPBB_Genres_Documentary?ie=UTF8&node=2650367011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Drama": {
+                                "data": {
+                                    "url": "https://www.amazon.com/drama-dvd-bluray/b/ref=MoviesHPBB_Genres_Drama?ie=UTF8&node=2650368011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Exercise & Fitness": {
+                                "data": {
+                                    "url": "https://www.amazon.com/exercise-fitness-dvd/b/ref=MoviesHPBB_Genres_Exercise?ie=UTF8&node=2662338011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Facebook": {
+                                "data": {
+                                    "url": "https://www.amazon.com:443/gp/redirect.html/ref=amb_link_9?_encoding=UTF8&location=https%3A%2F%2Fwww.facebook.com%2FAmazonMoviesTV%2F%3Fref%3DMoviesHPBB_facebook&source=standards&token=94E7C2B2C4CCD3BE44CC66CE64A615BFB88E36F7&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-4&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=697a6891-be2a-4032-ac14-62b6c920611f&pf_rd_p=697a6891-be2a-4032-ac14-62b6c920611f&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Faith & Spirituality": {
+                                "data": {
+                                    "url": "https://www.amazon.com/s/ref=MoviesHPBB_Genres_Faith?ie=UTF8&rh=i%3Amovies-tv%2Cn%3A2625373011%2Cp_n_theme_browse-bin%3A2676835011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Foreign Language & International": {
+                                "data": {
+                                    "url": "https://www.amazon.com/Foreign-International-DVD/b/ref=MoviesHPBB_Genres_Foreign?ie=UTF8&node=355667011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Horror": {
+                                "data": {
+                                    "url": "https://www.amazon.com/horror-dvd-bluray/b/ref=MoviesHPBB_Genres_Horror?ie=UTF8&node=2650371011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Indian Cinema & Bollywood": {
+                                "data": {
+                                    "url": "https://www.amazon.com/s/ref=MoviesHPBB_Genres_Indian?ie=UTF8&bbn=355673011&rh=i%3Amovies-tv%2Cn%3A2625373011%2Cn%3A%212644981011%2Cn%3A%212644982011%2Cn%3A%212998369011%2Cn%3A355667011%2Cn%3A355673011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Indie & Art House": {
+                                "data": {
+                                    "url": "https://www.amazon.com/Art-House-International-DVD/b/ref=MoviesHPBB_Genres_Indie?ie=UTF8&node=163313&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Jurassic World Franchise": {
+                                "data": {
+                                    "url": "https://www.amazon.com/stores/page/E9160BBA-5172-4DEB-944F-934E5892DFF7%26ref%3DMoviesHPBB_Jurassic/ref=amb_link_5?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-4&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=697a6891-be2a-4032-ac14-62b6c920611f&pf_rd_p=697a6891-be2a-4032-ac14-62b6c920611f&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Kids & Family": {
+                                "data": {
+                                    "url": "https://www.amazon.com/kids-family-dvd-bluray/b/ref=MoviesHPBB_Genres_KidsFamily?ie=UTF8&node=2650365011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "LGBTQ": {
+                                "data": {
+                                    "url": "https://www.amazon.com/gay-lesbian-lgbt-dvd-bluray/b/ref=MoviesHPBB_Genres_Gay?ie=UTF8&node=2650370011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Most Wished For": {
+                                "data": {
+                                    "url": "https://www.amazon.com/most-wished-for/movies-tv/ref=amb_link_11?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Movers & Shakers": {
+                                "data": {
+                                    "url": "https://www.amazon.com/movers-and-shakers/movies-tv/ref=amb_link_10?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Movies": {
+                                "data": {
+                                    "url": "https://www.amazon.com/Movies/b/ref=MoviesHPBB_Movies?ie=UTF8&node=2649512011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Music Videos & Concerts": {
+                                "data": {
+                                    "url": "https://www.amazon.com/concerts-dvd-bluray/b/ref=MoviesHPBB_Genres_MusicVideos?ie=UTF8&node=2662339011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "New Releases": {
+                                "data": {
+                                    "url": "https://www.amazon.com/new-releases/movies-tv/ref=amb_link_9?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Outlander": {
+                                "data": {
+                                    "url": "https://www.amazon.com/stores/page/E0039B71-485A-4998-BA41-F7D144597788%26ref%3DMoviesHPBB_Outlander/ref=amb_link_6?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-4&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=697a6891-be2a-4032-ac14-62b6c920611f&pf_rd_p=697a6891-be2a-4032-ac14-62b6c920611f&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Prime Video": {
+                                "data": {
+                                    "url": "https://www.amazon.com/Amazon-Video/b/ref=MoviesHPBB_Amazon_Instant_Video_Storefront?ie=UTF8&node=2858778011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Romance": {
+                                "data": {
+                                    "url": "https://www.amazon.com/Romance-DVD/b/ref=MoviesHPBB_Genres_Romance?ie=UTF8&node=1240754011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Science Fiction": {
+                                "data": {
+                                    "url": "https://www.amazon.com/scifi-dvd-bluray/b/ref=MoviesHPBB_Genres_Scifi?ie=UTF8&node=2650376011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "TV Shows": {
+                                "data": {
+                                    "url": "https://www.amazon.com/tv-dvd-bluray/b/ref=MoviesHPBB_TVshows?ie=UTF8&node=2649513011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Today's Deals": {
+                                "data": {
+                                    "url": "https://www.amazon.com/todaysdeals-dvd-bluray/b/ref=MoviesHPBB_XS11Deals?ie=UTF8&node=2921749011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Twitter": {
+                                "data": {
+                                    "url": "https://www.amazon.com:443/gp/redirect.html/ref=amb_link_10?_encoding=UTF8&location=https%3A%2F%2Ftwitter.com%2Famazon_movies%2F%3Fref%3DMoviesHPBB_twitter&source=standards&token=545842F5C705DEF7400A99D2DFA735733E5B7F0D&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-4&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=697a6891-be2a-4032-ac14-62b6c920611f&pf_rd_p=697a6891-be2a-4032-ac14-62b6c920611f&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Universal Studios": {
+                                "data": {
+                                    "url": "https://www.amazon.com/stores/page/7639F3DF-BDD0-4CB1-AA93-CDFB739B21F1%26ref%3DMoviesHPBB_Universal/ref=amb_link_7?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-4&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=697a6891-be2a-4032-ac14-62b6c920611f&pf_rd_p=697a6891-be2a-4032-ac14-62b6c920611f&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Warehouse Deals": {
+                                "data": {
+                                    "url": "https://www.amazon.com/gp/search%3Frh%3Di%3Awarehouse-deals%2Cn%3A10158976011%26bbn%3D10158976011%26rw_html_to_wsrp%3D1/ref=amb_link_8?ie=UTF8&ref=MoviesHPBB_warehouse&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-4&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=697a6891-be2a-4032-ac14-62b6c920611f&pf_rd_p=697a6891-be2a-4032-ac14-62b6c920611f&pf_rd_i=2625373011"
+                                }
+                            }
+                        },
+                        {
+                            "Western": {
+                                "data": {
+                                    "url": "https://www.amazon.com/westerns-dvd-bluray/b/ref=MoviesHPBB_Genres_Western?ie=UTF8&node=2650382011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-left-3&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_r=XXX6065TBSM2TBRD3ZJN&pf_rd_t=101&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_p=0b09e9ac-1bf9-4401-902b-57cfcf1e2e9c&pf_rd_i=2625373011"
+                                }
+                            }
+                        }
+                    ],
+                    "data": {
+                        "url": "https://www.amazon.com/b/ref=AE_HP_leftnav_movies?_encoding=UTF8&ie=UTF8&node=2625373011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-leftnav&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_t=101&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_i=17938598011"
+                    }
+                }
+            },
+            {
+                "Music, CDs & Vinyl": {
+                    "data": {
+                        "url": "https://www.amazon.com/b/ref=AE_HP_leftnav_music?_encoding=UTF8&ie=UTF8&node=5174&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-leftnav&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_t=101&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_i=17938598011"
+                    }
+                }
+            },
+            {
+                "Pet Supplies": {
+                    "data": {
+                        "url": "https://www.amazon.com/b/ref=AE_HP_leftnav_pet_supplies?_encoding=UTF8&ie=UTF8&node=16225013011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-leftnav&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_t=101&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_i=17938598011"
+                    }
+                }
+            },
+            {
+                "Software": {
+                    "data": {
+                        "url": "https://www.amazon.com/b/ref=AE_HP_leftnav_software?_encoding=UTF8&ie=UTF8&node=16225008011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-leftnav&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_t=101&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_i=17938598011"
+                    }
+                }
+            },
+            {
+                "Sports & Outdoors": {
+                    "data": {
+                        "url": "https://www.amazon.com/b/ref=AE_HP_leftnav_sports?_encoding=UTF8&ie=UTF8&node=16225014011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-leftnav&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_t=101&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_i=17938598011"
+                    }
+                }
+            },
+            {
+                "Tools & Home Improvement": {
+                    "data": {
+                        "url": "https://www.amazon.com/b/ref=AE_HP_leftnav_tools?_encoding=UTF8&ie=UTF8&node=256643011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-leftnav&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_t=101&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_i=17938598011"
+                    }
+                }
+            },
+            {
+                "Toys & Games": {
+                    "data": {
+                        "url": "https://www.amazon.com/b/ref=AE_HP_leftnav_toys?_encoding=UTF8&ie=UTF8&node=16225015011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-leftnav&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_t=101&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_i=17938598011"
+                    }
+                }
+            },
+            {
+                "Video Games": {
+                    "data": {
+                        "url": "https://www.amazon.com/b/ref=AE_HP_leftnav_video_games?_encoding=UTF8&ie=UTF8&node=16225016011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-leftnav&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_t=101&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_i=17938598011"
+                    }
+                }
+            },
+            {
+                "Women's Fashion": {
+                    "data": {
+                        "url": "https://www.amazon.com/b/ref=AE_HP_leftnav_womensfashion?_encoding=UTF8&ie=UTF8&node=16225018011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-leftnav&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_r=ZX0FARSMVJZGM5EDFBY5&pf_rd_t=101&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_p=f9c8a66f-ffbe-4269-9780-afcbe1a37652&pf_rd_i=17938598011"
+                    }
+                }
+            }
+        ],
+        "data": {
+            "url": "https://www.amazon.com/b?node=17938598011"
+        }
+    }
+}
